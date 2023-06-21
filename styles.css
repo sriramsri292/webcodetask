@@ -1,0 +1,32 @@
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .brand {
+    font-weight: bold;
+  }
+  
+  .name {
+    margin-top: 5px;
+  }
+  
+  .price {
+    margin-top: 5px;
+  }
+  
+  .image {
+    width: 100px;
+    height: auto;
+    margin-top: 5px;
+  }
+  
+  .description {
+    margin-top: 5px;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }
+  
